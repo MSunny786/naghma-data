@@ -1,57 +1,57 @@
 [
     {
         "id":  1,
-        "titleUrdu":  "اے پتر",
-        "title":  "a putr",
+        "titleUrdu":  "اے پتر ہٹاں تے",
+        "title":  "Ae Puttar Hattan Te",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/ae_puttar_hattaan_te_nain_wikde_noorjahan.mp3",
         "isDownloaded":  false
     },
     {
         "id":  2,
-        "titleUrdu":  "ایک قوم ، ایک منزل",
-        "title":  "aik qom aik manzil",
+        "titleUrdu":  "ایک قوم ایک منزل",
+        "title":  "Aik Qaum Aik Manzil",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/aik_qaum_aik_manzil.mp3",
         "isDownloaded":  false
     },
     {
         "id":  3,
-        "titleUrdu":  "اپنی جان نظر کروں",
-        "title":  "apni jan nazar karyngy apni jaan nazar karengy",
+        "titleUrdu":  "اپنی جان نذر کروں",
+        "title":  "Apni Jaan Nazar Karun",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/apni_jaan_nazar_karun.mp3",
         "isDownloaded":  false
     },
     {
         "id":  4,
         "titleUrdu":  "اے مرد مجاہد جاگ ذرا",
-        "title":  "Allah u akbar A marjid mujahid jag zara",
+        "title":  "Aye Mard-e-Mujahid",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/aye_mard_e_mujahid.mp3",
         "isDownloaded":  false
     },
     {
         "id":  5,
         "titleUrdu":  "اے میرے وطن تیز قدم ہو",
-        "title":  "a mery watan mery watan tez qadam ho",
+        "title":  "Aye Mere Watan Taiz Qadam",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/aye_mere_watan_taiz_qadam.mp3",
         "isDownloaded":  false
     },
     {
         "id":  6,
-        "titleUrdu":  "اے رہے حق كے شہیدوں",
-        "title":  "A Rah e Haq k Shaheedon",
+        "titleUrdu":  "اے راہ حق کے شہیدوں",
+        "title":  "Aye Rah-e-Haq Ke Shaheedon",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/aye_rahe_haq.mp3",
         "isDownloaded":  false
     },
     {
         "id":  7,
         "titleUrdu":  "اے وطن، پیارے وطن",
-        "title":  "A watan pyary watan",
+        "title":  "Aye Watan Pyare Watan",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/aye_wattan_pyare_watten.mp3",
         "isDownloaded":  false
     },
     {
         "id":  8,
         "titleUrdu":  "بڑا دشمن بنا پھرتا ہے",
-        "title":  "barha dushman bana phirta hai jo bachcho se darta hai",
+        "title":  "Bara Dushman Bana Phirta Hai",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/bara_dushman_bana_phirta_hai.mp3",
         "isDownloaded":  false
     },
@@ -65,139 +65,139 @@
     {
         "id":  10,
         "titleUrdu":  "چڑھتا سورج ہے اپنا پاکستان",
-        "title":  "charhta sooraj hai apna pakistan",
+        "title":  "Charhta Suraj Hai Apna Pakistan",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/charhta_suraj_hai_apna_pakistan.mp3",
         "isDownloaded":  false
     },
     {
         "id":  11,
         "titleUrdu":  "دل دل پاکستان",
-        "title":  "dil dil pakistan",
+        "title":  "Dil Dil Pakistan",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/dil_dil_pakistan.mp3",
         "isDownloaded":  false
     },
     {
         "id":  12,
-        "titleUrdu":  "",
+        "titleUrdu":  "دوستی ",
         "title":  "dosti",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/dosti.mp3",
         "isDownloaded":  false
     },
     {
         "id":  13,
-        "titleUrdu":  "ہمارا پاکستان",
-        "title":  "بلوچی ورژن",
+        "titleUrdu":  "ہمارا پاکستان (بلوچی)",
+        "title":  "Hamara Pakistan (Balochi)",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/hamara_pakistan_balochi.mp3",
         "isDownloaded":  false
     },
     {
         "id":  14,
-        "titleUrdu":  "ہمارا پاکستان",
-        "title":  "کشمیری ورژن",
+        "titleUrdu":  "ہمارا پاکستان (کشمیری)",
+        "title":  "Hamara Pakistan (Kashmiri)",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/hamara_pakistan_kashmiri.mp3",
         "isDownloaded":  false
     },
     {
         "id":  15,
-        "titleUrdu":  "ہمارا پاکستان",
-        "title":  "پشتو ورژن",
+        "titleUrdu":  "ہمارا پاکستان (پشتو)",
+        "title":  "Hamara Pakistan (Pashto)",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/hamara_pakistan_pashto.mp3",
         "isDownloaded":  false
     },
     {
         "id":  16,
-        "titleUrdu":  "ہمارا پاکستان",
-        "title":  "پنجابی ورژن",
+        "titleUrdu":  "ہمارا پاکستان (پنجابی)",
+        "title":  "Hamara Pakistan (Punjabi)",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/hamara_pakistan_punjabi.mp3",
         "isDownloaded":  false
     },
     {
         "id":  17,
-        "titleUrdu":  "ہمارا پاکستان",
-        "title":  "سندھی ورژن",
+        "titleUrdu":  "ہمارا پاکستان (سندھی)",
+        "title":  "Hamara Pakistan (Sindhi)",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/hamara_pakistan_sindhi.mp3",
         "isDownloaded":  false
     },
     {
         "id":  18,
-        "titleUrdu":  "تم ہی پاکستان ہو",
-        "title":  "tum he pakistan ho tum hi pakistan ho",
+        "titleUrdu":  "ہاں تم ہی پاکستان ہو",
+        "title":  "Haan Tum Hi Pakistan Ho",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/han_tum_hi_pakistan_ho_jawad.mp3",
         "isDownloaded":  false
     },
     {
         "id":  19,
-        "titleUrdu":  "ہر پاکستانی کا نارا",
-        "title":  "har pakistani ka naara",
+        "titleUrdu":  "ہر پاکستانی کا نعرہ",
+        "title":  "Har Pakistani Ka Nara",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/har_pakistani_ka_nara.mp3",
         "isDownloaded":  false
     },
     {
         "id":  20,
         "titleUrdu":  "ہمارا پرچم یہ پیارا پرچم",
-        "title":  "hamara parcham yeh pyara parcham",
+        "title":  "Hamara Parcham Yeh Pyara Parcham",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/humara_parcham_yeh.mp3",
         "isDownloaded":  false
     },
     {
         "id":  21,
         "titleUrdu":  "ہم اپنا نظریہ رکھتے ہیں",
-        "title":  "hum apna nazriya rakhty hai tum apna nazriya pas rakho",
+        "title":  "Hum Apna Nazria Rakhty Hain",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/hum_apna_nazria_rakhty.mp3",
         "isDownloaded":  false
     },
     {
         "id":  22,
         "titleUrdu":  "ہم ہیں پاکستانی",
-        "title":  "hum hai pakistani hum to jeetengy han jeetengy",
+        "title":  "Hum Hain Pakistani",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/hum_hain_pakistani.mp3",
         "isDownloaded":  false
     },
     {
         "id":  23,
         "titleUrdu":  "ہم تیرے سپاہی ہیں",
-        "title":  "hum tery sepahi hain ham tery sepahi hain",
+        "title":  "Hum Tere Sipahi Hain",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/hum_tere_sipahi_hain.mp3",
         "isDownloaded":  false
     },
     {
         "id":  24,
         "titleUrdu":  "ہم زندہ قوم ہیں",
-        "title":  "hum zinda qom hai payenda qom hai ham zinda quom hai payenda qum hain",
+        "title":  "Hum Zinda Qoum Hain",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/hum_zinda_qoum_hai.mp3",
         "isDownloaded":  false
     },
     {
         "id":  25,
         "titleUrdu":  "آئی لو مائی پاکستان",
-        "title":  "i love my pakistan ye watan hai meri jan ye watan meri pehchan hai hum sab ki yeh shan",
+        "title":  "I Love My Pakistan",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/i_love_my_pakistan.mp3",
         "isDownloaded":  false
     },
     {
         "id":  26,
         "titleUrdu":  "جاگ رہا ہے پاکستان",
-        "title":  "jag raha hai sara pakistan jag raha hai pakistan",
+        "title":  "Jaag Raha Hai Pakistan",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/jaag_raha_hai_pakistan.mp3",
         "isDownloaded":  false
     },
     {
         "id":  27,
-        "titleUrdu":  "پلٹ کے جاپتنا جپٹ کے پلٹنا",
-        "title":  "palat ky janna jeet k palatna",
+        "titleUrdu":  "جھپٹنا جھپٹ کے پلٹنا",
+        "title":  "Jhaptna Jhapat Ke Paltna",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/japtna_japat_k_paltna.mp3",
         "isDownloaded":  false
     },
     {
         "id":  28,
         "titleUrdu":  "جیوے پاکستان",
-        "title":  "Jeeway Pakistan",
+        "title":  "Jeevay Pakistan",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/jeve_pakistan.mp3",
         "isDownloaded":  false
     },
     {
         "id":  29,
-        "titleUrdu":  "",
+        "titleUrdu":  "جنون سے اور عشق ",
         "title":  "junoon se aur ishq",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/junoon_se_aur_ishq.mp3",
         "isDownloaded":  false
@@ -205,175 +205,175 @@
     {
         "id":  30,
         "titleUrdu":  "کبھی پرچم میں لپٹے ہیں",
-        "title":  "kabhi parcham me lipty hain kabhi hum ghazi hoty hain jo ho jati hai maa razi to bety ghazi hoty hain kabi parcham me lipty hain",
+        "title":  "Kabhi Parcham Main Lipty Hain",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/kabhi_parcham_mai_lipty.mp3",
         "isDownloaded":  false
     },
     {
         "id":  31,
         "titleUrdu":  "میں پاکستان ہوں",
-        "title":  "main pakistan hon me zindabad hon me pakistan hon",
+        "title":  "Main Pakistan Hun",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/main_pakistan_hun.mp3",
         "isDownloaded":  false
     },
     {
         "id":  32,
         "titleUrdu":  "میں بھی تو پکارا جاؤں گا",
-        "title":  "main b to pakra jaonga",
+        "title":  "Mein Bhi Tou Pukara Jaon Ga",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/mein_bhi_tou_pukara_jaon_ga.mp3",
         "isDownloaded":  false
     },
     {
         "id":  33,
-        "titleUrdu":  "میں کیوں آزاد نہیں | کشمیر",
-        "title":  "main q azad nahi kashmir",
+        "titleUrdu":  "میں کیوں آزاد نہیں",
+        "title":  "Mein Kyun Azad Nahi",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/mei_ku_azad_nahi.mp3",
         "isDownloaded":  false
     },
     {
         "id":  34,
         "titleUrdu":  "میرا عشق پاکستان",
-        "title":  "mera ishaq Pakistan",
+        "title":  "Mera Ishq Pakistan",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/mera_ishq_pakistan.mp3",
         "isDownloaded":  false
     },
     {
         "id":  35,
         "titleUrdu":  "میرا پیغام پاکستان",
-        "title":  "mera paigham pakistan mera yeh nam pakistan mera pegham pakistan",
+        "title":  "Mera Paigham Pakistan",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/mera_paigham_pakistan.mp3",
         "isDownloaded":  false
     },
     {
         "id":  36,
         "titleUrdu":  "میرا سوہنا پاکستان",
-        "title":  "mera sohna pakistan",
+        "title":  "Mera Sohna Pakistan",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/mera_sohna_pakistan.mp3",
         "isDownloaded":  false
     },
     {
         "id":  37,
-        "titleUrdu":  "میرے وطن یہ",
-        "title":  "mery watan ye azeeyaty aur pyar tujh pe nisar kardon merey watan ye aziyatain aur pyar tujh pe",
+        "titleUrdu":  "میرے وطن یہ عقیدتیں",
+        "title":  "Mere Watan Ye Aqeedaten",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/mere_watan_ye_aqeedaten.mp3",
         "isDownloaded":  false
     },
     {
         "id":  38,
-        "titleUrdu":  "میرے ڈھول سپاحیا",
-        "title":  "mery dhol siyahiya",
+        "titleUrdu":  "میرے ڈھول سپاہیا",
+        "title":  "Mery Dhool Sipaheeya",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/mery_dhool_sipaheeya_teeno_rab_noorjahan.mp3",
         "isDownloaded":  false
     },
     {
         "id":  39,
-        "titleUrdu":  "مٹی میں ملا د یں گے",
-        "title":  "mitti mai mila dain gy",
+        "titleUrdu":  "مٹی میں ملا دیں گے",
+        "title":  "Mitti Mai Mila Dain Gy",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/mitti_mai_mila_dain_gy.mp3",
         "isDownloaded":  false
     },
     {
         "id":  40,
-        "titleUrdu":  "",
-        "title":  "mujhy dushman k",
+        "titleUrdu":  "مجھے دشمن کے بچوں کو ",
+        "title":  "mujhy dushman ke bachon ko",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/mujhy_dushman_k.mp3",
         "isDownloaded":  false
     },
     {
         "id":  41,
-        "titleUrdu":  "نعرہ تکبیر اللہ و اکبر",
-        "title":  "naghra e takbeer allah hu akbar",
+        "titleUrdu":  "نعرہ تکبیر اللہ اکبر",
+        "title":  "Nara-e-Takbeer Allah Akbar",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/narae_takbeer_allah.mp3",
         "isDownloaded":  false
     },
     {
         "id":  42,
-        "titleUrdu":  "پاک آرمی وکٹری",
-        "title":  "pak army victory",
+        "titleUrdu":  "پاک آرمی وکٹری",
+        "title":  "Pak Army Victory",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/pak_army_victory.mp3",
         "isDownloaded":  false
     },
     {
         "id":  43,
         "titleUrdu":  "قسم اس وقت کی",
-        "title":  "qasam us waqt ki qasam is waqt ki",
+        "title":  "Qasam Us Waqt Ki",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/qasam_us_waqt_ki_junaid.mp3",
         "isDownloaded":  false
     },
     {
         "id":  44,
         "titleUrdu":  "قومی ترانہ",
-        "title":  "qomi taran pak sarzameen shad bad quomi tarana qumo tarana",
+        "title":  "Qomi Tarana",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/qomi_tarana.mp3",
         "isDownloaded":  false
     },
     {
         "id":  45,
-        "titleUrdu":  "سادا رہنا پاکستان زندہ باد",
-        "title":  "sada rehna pakistan zindabad hai azam hamara rag rag me too",
+        "titleUrdu":  "سدا رہنا پاکستان زندہ باد",
+        "title":  "Sada Rehna Pakistan Zindabad",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/sada_rehna_pakistan_zindabaad.mp3",
         "isDownloaded":  false
     },
     {
         "id":  46,
-        "titleUrdu":  "",
-        "title":  "shukriya pakistan",
+        "titleUrdu":  "شکریہ پاکستان",
+        "title":  "Shukriya Pakistan",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/shukriya_pakistan.mp3",
         "isDownloaded":  false
     },
     {
         "id":  47,
         "titleUrdu":  "سوہنی دھرتی اللہ رکھے",
-        "title":  "sohni darti allah rakky qadam qadam abad",
+        "title":  "Sohni Dharti Allah Rakay",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/sohni_dharti_allah_rakay.mp3",
         "isDownloaded":  false
     },
     {
         "id":  48,
-        "titleUrdu":  "",
+        "titleUrdu":  "تیار ہیں ہم ",
         "title":  "tayyar hain hum",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/tayyar_hain_hum.mp3",
         "isDownloaded":  false
     },
     {
         "id":  49,
-        "titleUrdu":  "",
-        "title":  "tera pakistan hai yeh mera pakistan hai",
+        "titleUrdu":  "تیرا پاکستان ہے ",
+        "title":  "tera pakistan hai ",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/tera_pakistan_hai_yeh_mera_pakistan_hai.mp3",
         "isDownloaded":  false
     },
     {
         "id":  50,
         "titleUrdu":  "تو سلامت وطن",
-        "title":  "too salamat watan taa qayamat watan",
+        "title":  "Tu Salamat Watan",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/tu_salamat_watan.mp3",
         "isDownloaded":  false
     },
     {
         "id":  51,
         "titleUrdu":  "انگلی مت اٹھانا",
-        "title":  "ungli mat utana bazo torh k rakh dengy",
+        "title":  "Ungli Mat Uthana",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/ungli_mat_uthana.mp3",
         "isDownloaded":  false
     },
     {
         "id":  52,
-        "titleUrdu":  "",
+        "titleUrdu":  "وطن کا عشق ",
         "title":  "watan ka ishq",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/watan_ka_ishq.mp3",
         "isDownloaded":  false
     },
     {
         "id":  53,
-        "titleUrdu":  "",
+        "titleUrdu":  "یلگار ہے ",
         "title":  "yalghar hai",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/yalghar_hai.mp3",
         "isDownloaded":  false
     },
     {
         "id":  54,
-        "titleUrdu":  "یہ وطن تمہارا",
-        "title":  "yeh watan tumhara hai tum ho pasban isky",
+        "titleUrdu":  "یہ وطن تمہارا ہے",
+        "title":  "Ye Watan Tumhara Hai",
         "url":  "https://archive.org/download/bunyan_ul_marsoos/ye_watan_tumhara_hai.mp3",
         "isDownloaded":  false
     }
